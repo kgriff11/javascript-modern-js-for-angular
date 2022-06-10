@@ -52,7 +52,6 @@ function addStudent(s: Student){
 	}
 }
 
-console.log(shortestString(array));
 ```
 
 Output:
